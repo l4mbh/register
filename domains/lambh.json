@@ -1,1 +1,11 @@
-
+{
+  "description": "Personal Porfolio lambh",
+  "repo": "https://github.com/l4mbh",
+  "owner": {
+    "username": "l4mbh",
+    "email": "lambh.1998@gmail.com"
+  },
+  "record": {
+    "CNAME": "lambh.is-a.dev"
+  }
+}
